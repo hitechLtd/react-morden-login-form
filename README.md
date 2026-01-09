@@ -21,9 +21,10 @@ A responsive login component with Google/Apple social buttons, icon-prefixed inp
 - HTML5 validation
 
 ## 🚀 Quick Start
-1. Clone: 
-2. Install: 
+1. Clone: `https://github.com/hitechLtd/react-morden-login-form.git`
+2. Install: `npm install`
 3. Run: `npm start`
 4. Edit: Use `InputField` and `SocialLogin` components.
+5. you can modify this as how you want when you clone the repository
 
 
