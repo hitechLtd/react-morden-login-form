@@ -1,16 +1,29 @@
-# React + Vite
+# Modern React Login Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Deployment](https://img.shields.io/badge/Netlify-Live%20Demo-brightgreen)](your-deploy-url)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Currently, two official plugins are available:
+A responsive login component with Google/Apple social buttons, icon-prefixed inputs, password toggle, and form validation. Built with React hooks.as shown below
+<img width="1906" height="931" alt="image" src="https://github.com/user-attachments/assets/e9bbb21b-a003-49e4-b013-01fc5c6752e7" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## Features
+- Social login buttons (Google, Apple SVGs)
+- Material Symbols icons (mail, lock, visibility toggle)
+- Password visibility toggle with state management
+- CSS pseudo-classes for focus/valid states
+- Mobile-responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- React (useState hooks)
+- CSS3 (pointer-events, :focus, :valid)
+- Google Material Symbols
+- HTML5 validation
 
-## Expanding the ESLint configuration
+## 🚀 Quick Start
+1. Clone: 
+2. Install: 
+3. Run: `npm start`
+4. Edit: Use `InputField` and `SocialLogin` components.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
